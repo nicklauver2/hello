@@ -12,6 +12,7 @@
 int main(int argc, char **argv) {
 
   printf("Nick Lauver!\n");
+  printf("Actuarial Science\n")
 
   return 0;
 }
